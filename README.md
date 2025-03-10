@@ -44,7 +44,6 @@ The notebook is organized into these key sections:
      - **Mean Squared Error (MSE):** 10.46
      - **R² Score:** 0.9510
    - Visualize actual vs. predicted closing prices.
-      ![Screenshot of model](C:\Users\Nitin\OneDrive\Desktop\ssb.png)
 6. **Conclusion & Future Work**
    - Summarize the performance and key findings.
    - Outline potential future enhancements, including exploring advanced models like Random Forest and XGBoost.
